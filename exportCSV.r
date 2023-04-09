@@ -1,0 +1,1 @@
+write.csv2(SCR_BRUT,file"./MontantSCRExport.csv")
